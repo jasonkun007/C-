@@ -1,6 +1,2 @@
 # C-
-C CODES TOPICS 
-FUNCTIONS
-MATRIX 
-PATTERNS
-COMMON PROBLEMS
+If you need c program notes , I have some with me . You can check out .
